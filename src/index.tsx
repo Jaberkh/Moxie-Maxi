@@ -69,7 +69,7 @@ app.frame('/', async (c) => {
   const shareUrl = `https://warpcast.com/~/compose?text=${encodeURIComponent(
     "🔥Ⓜ️ I AM MOXIE MAXI!\n\nFrame by @jeyloo.eth"
   )}&embeds[]=${encodeURIComponent(
-    `https://9d7d-109-61-80-200.ngrok-free.app/?hashid=${hashId}&fid=${safeFid}&username=${safeUsername}&pfpUrl=${safePfpUrl}`
+    `https://moxie-maxi.onrender.com/?hashid=${hashId}&fid=${safeFid}&username=${safeUsername}&pfpUrl=${safePfpUrl}`
   )}`;
 
   return c.res({
