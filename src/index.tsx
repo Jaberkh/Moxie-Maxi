@@ -87,18 +87,17 @@ app.frame('/', async (c) => {
         }}
       >
         <img
-  src="/images/BG1.png" 
-  alt="Background"
-  width={1200}
-  height={675}
-  style={{
-    position: "absolute",
-    width: "100%",
-    height: "100%",
-    objectFit: "cover",
-  }}
-/>
-
+          src="https://res.cloudinary.com/dopzlpkbm/image/upload/v1739636316/BG_wgpixc.png"
+          alt="Background"
+          width={1200}
+          height={675}
+          style={{
+            position: "absolute",
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+          }}
+        />
 
         {pfpUrl && (
           <img
