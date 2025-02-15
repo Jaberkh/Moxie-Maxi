@@ -87,7 +87,7 @@ app.frame('/', async (c) => {
         }}
       >
         <img
-          src="https://i.ibb.co/4Rm0GVnh/BG.png"
+          src="https://i.postimg.cc/fyDnNSD6/BG1.png"
           alt="Background"
           width={1200}
           height={675}
