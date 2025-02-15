@@ -87,7 +87,7 @@ app.frame('/', async (c) => {
         }}
       >
         <img
-          src="https://i.postimg.cc/fyDnNSD6/BG1.png"
+          src="https://res.cloudinary.com/dopzlpkbm/image/upload/v1739635973/BG1_xygam5.png"
           alt="Background"
           width={1200}
           height={675}
