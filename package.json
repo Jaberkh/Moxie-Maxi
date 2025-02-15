@@ -1,0 +1,20 @@
+{
+  "name": "moxie-maxi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "frog dev",
+    "serve": "tsx src/index.tsx"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.8",
+    "dotenv": "^16.4.7",
+    "frog": "^0.18.3",
+    "hono": "^4"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^20.17.19",
+    "tsx": "^3.12.2"
+  }
+}
